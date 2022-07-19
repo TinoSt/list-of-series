@@ -1,4 +1,6 @@
 # list-of-series
-Stell dir eine Liste aus x Elementen vor. Jedes Element der Liste ist eine Zahl, die zwischen einem Minimalwert und einem Maximalwert liegt. 
-Innerhalb der Liste darf jede Zahl nur einmal vorkommen. Wenn x z.B. den Wert 7 hat, der Minimalwert 1 beträgt und der Maximalwert 7 ist, 
-dann könnte die Liste so ausschauen: [1, 2, 3, 4, 5, 6, 7]. Mithilfe dieses Programms wird eine Liste mit allen möglichen Kombinationen generiert.
+Imagine a list of x items. Each element of the list is a number between a minimum value and a maximum value. 
+Each number may appear only once in the list. For example, if x has the value 7, the minimum value is 1, 
+and the maximum value is 7, then the list might look like this: [1, 2, 3, 4, 5, 6, 7]. 
+
+Challenge: Create a program that generates all possible combinations. Use as few loops or conditions as possible.
